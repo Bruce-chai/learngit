@@ -1,0 +1,16 @@
+{
+    "name": "chaishuai/test-url",
+    "description": "sdjfsdkfsk",
+    "autoload": {
+        "psr-4": {
+            "Chaishuai\\TestUrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaishuai",
+            "email": "a_good_start163@163.com"
+        }
+    ],
+    "require": {}
+}
