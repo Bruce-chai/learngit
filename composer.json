@@ -1,0 +1,17 @@
+{
+    "name": "chaishuai/learngit",
+    "description": "learning git",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chaishuai\\Learngit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaishuai",
+            "email": "a_good_start163@163.com"
+        }
+    ],
+    "require": {}
+}
