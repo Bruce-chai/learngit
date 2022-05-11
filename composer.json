@@ -1,6 +1,7 @@
 {
     "name": "chaishuai/learngit",
     "description": "learning git",
+    "type": "vcs",
     "license": "MIT",
     "autoload": {
         "psr-4": {
