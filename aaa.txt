@@ -4,4 +4,4 @@ sdkfdsjkfk
 123232
 
 777
-tag: v1
+tag: v1.1.1
